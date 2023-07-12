@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fdfcf1;
+}
+
+#p {
+    font-size: 65px;
+}
+
+#plusButton {
+    width: 100px;
+    height: 100px;
+    font-size: 65px;
+    padding: 10px 10px;
+    border: solid black;
+    background-color: #c6dac6;
+    border-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+
+#inputValue {
+    width: 80px;
+    height: 80px;
+    font-size: 65px;
+    padding: 10px 10px;
+    border: solid black;
+    background-color: #eaf1ea;
+
+    color: #fff;
+    cursor: pointer;
+}
+
+#minusButton {
+    width: 100px;
+    height: 100px;
+    font-size: 65px;
+    padding: 10px 10px;
+    border: solid black;
+    background-color: #c6dac6;
+    border-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
